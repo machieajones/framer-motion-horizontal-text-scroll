@@ -1,4 +1,21 @@
+@font-face {
+  font-family: 'durer';
+  src: url('fonts/durer-webfont.woff2') format('woff2'),
+       url('fonts/durer-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+:root {
+  --font-primary: durer;
+  --color-bg: #6e7570;
+}
+
+
 body {
+  background-color: var(--color-bg);
+  font-size: 1vw;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
