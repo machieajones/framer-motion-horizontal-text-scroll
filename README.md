@@ -1,3 +1,9 @@
+## Instructions
+
+bash`yarn install`
+
+bash`yarn start`
+
 ## Inspiration
 
 [https://www.in56.es/](https://www.in56.es/)
