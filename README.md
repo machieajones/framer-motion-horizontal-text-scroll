@@ -1,8 +1,8 @@
 ## Instructions
 
-bash`yarn install`
+`yarn install`
 
-bash`yarn start`
+`yarn start`
 
 ## Inspiration
 
